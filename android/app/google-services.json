@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427229092259",
+    "project_id": "bami-s-login-page",
+    "storage_bucket": "bami-s-login-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427229092259:android:95fe70ab1ba2cc0292e216",
+        "android_client_info": {
+          "package_name": "com.appbami.jivan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427229092259-4c2e2bd0dosc7ipfeueed9clqkpornhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi_HEbpaKySJRHppwFjt7MasIAPdNdvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427229092259-4c2e2bd0dosc7ipfeueed9clqkpornhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
